@@ -1,0 +1,24 @@
+.card {
+  width: 500px;
+  min-height: 300px;
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.cardTitle {
+  color: #333;
+  font-size: 1.8rem;
+  line-height: 1.25rem;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #333;
+}
+
+.placesToGoList {
+  width: 100%;
+  list-style-type: none;
+  padding: 5px;
+  margin-bottom: 4px;
+}

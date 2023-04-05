@@ -1,0 +1,14 @@
+.placeToGoName {
+  background-color: aquamarine;
+  padding: 2px;
+}
+
+.thingsToBuyList {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  list-style-type: none;
+  background-color: blanchedalmond;
+  padding: 10px;
+  padding-left: 20px;
+}
