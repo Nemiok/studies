@@ -1,6 +1,6 @@
 
 
-https://studies-topaz.vercel.app/
+https://studies-nemiok.vercel.app/
 
 Open your terminal
 
