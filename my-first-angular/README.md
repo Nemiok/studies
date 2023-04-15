@@ -1,5 +1,7 @@
 ## Development server
 
+https://studies-topaz.vercel.app/
+
 Open your terminal
 
 Run `npm install` to install all dependencies
